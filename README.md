@@ -1,5 +1,5 @@
 ![](https://i.imgur.com/waxVImv.png)
-### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+### [View all Roadmaps](https://github.com/StarDev95/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/StarDev95/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&width=435&lines=Hello%2C+I'm+Nho+Luong🇻🇳🇻🇳🇻🇳🇻🇳🇻)](https://git.io/typing-svg)
@@ -9,9 +9,7 @@
 - ⚽ Football Player
 - ♾️ DevOps Engineer
 - ⭐ Open-source Contributor
-- 😄 Pronouns: Mr. Nho Luong
 - 📚 Lifelong Learner | Always exploring something new
-- 📫 How to reach me: luongutnho@hotmail.com
 
 ![GitHub Grade](https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=for-the-badge&logo=github)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
@@ -26,58 +24,35 @@ My approach blends deep technical knowledge with strategic planning to deliver r
 
 Ask me **about DevOps & DevSecOps with CI/CD Pipelines, Cloud Computing (AWS, Microsoft Azure), Docker, Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language).**
 
-[![NhoLuong github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nholuongut&bg_color=01117&color=C6E5B1&line=C6E5B1&point=C6E5B1&area_color=98e3bf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![NhoLuong GitHub Stats](https://github-readme-stats.vercel.app/api?username=nholuongut&show_icons=true&theme=tokyonight)
-
-![NhoLuong GitHub Streak](https://streak-stats.demolab.com?user=nholuongut&theme=tokyonight)
-
-[![NhoLuong trophy](https://github-profile-trophy.vercel.app/?username=nholuongut&theme=darkhub&exclude=reviews&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 ### 🔭 I’m currently working on🇻
-- [MLOps - Machine Learning Operations](https://github.com/nholuongut/MLOps-references)
-- [GenAIOps-project-template](https://github.com/nholuongut/GenAIOps-project-template)
-- [Deep Learning tutorials](https://github.com/nholuongut/Deep-Learning-tutorials)
-- [All In One LLMS](https://github.com/nholuongut/all-in-one-llm)
+- [MLOps - Machine Learning Operations](https://github.com/StarDev95/MLOps-references)
+- [GenAIOps-project-template](https://github.com/StarDev95/GenAIOps-project-template)
+- [Deep Learning tutorials](https://github.com/StarDev95/Deep-Learning-tutorials)
+- [All In One LLMS](https://github.com/StarDev95/all-in-one-llm)
 - [Azure AI ](https://github.com/Azure/enterprise-azureai)
 
 ### 🌱 I’m currently Pratices on 🇻
-- [Generative AI Operations Solution Accelerator](https://github.com/nholuongut/GenAIOps)
-- [Azure ML Service and Azure DevOps](https://github.com/nholuongut/DevOpsForAI)
-- [AI application using Azure](https://github.com/nholuongut/AI-application-with-DevOps)
+- [Generative AI Operations Solution Accelerator](https://github.com/StarDev95/GenAIOps)
+- [Azure ML Service and Azure DevOps](https://github.com/StarDev95/DevOpsForAI)
+- [AI application using Azure](https://github.com/StarDev95/AI-application-with-DevOps)
 
-### 📝 I regularly write articles on 🇻
-- [My Linkedin Recent Activity](https://www.linkedin.com/in/nholuong/recent-activity/all/)
-
-# **Project Architecture Overviews🇻**
-![](https://i.imgur.com/waxVImv.png)
-![](images/ArchitectureOverview.png)
-
-# **DevSecOps Orchestrator Overviews🇻**
-![](https://i.imgur.com/waxVImv.png)
-![](images/DevOpsServices.png)
-
-# **Pipeline Fullflow Overviews🇻**
-![](https://i.imgur.com/waxVImv.png)
-![](images/PipelineFullflow.png)
 
 # **My Projects**🇻
--  My Github Repositories [**GitHub Repositories**](https://github.com/nholuongut?tab=repositories) for a central DevOps learning and practical with all my projects.
+-  My Github Repositories [**GitHub Repositories**](https://github.com/StarDev95) for a central DevOps learning and practical with all my projects.
 - 🏗️ Below are my highlight repositories🇻:
-   - ➡️ [**devops-basics**](https://github.com/nholuongut/devops-basics): Practical and document place for DevOps skill.
-   - ➡️ [**devops-toolkit**](https://github.com/nholuongut/devops-toolkit): Container image for an all-in-one DevOps environment with popular tools
-   - ➡️ [**devops-notes**](https://github.com/nholuongut/devops-notes): This is my DevOps stack public repositories on github.
-   - ➡️ [**devsecops-demos**](https://github.com/nholuongut/devsecops-demos): A DevSecOps integrating security into the DevOps Process 
-   - ➡️ [**cicd-presentation**](https://github.com/nholuongut/cicd-presentation): Introductory for continuous integration, deployment, delivery. 
-   - ➡️ [**local-env**](https://github.com/nholuongut/local-env): LocalEnv - Local Containerized Environment supports various languages.
-   - ➡️ [**kubernetes-labs**](https://github.com/nholuongut/kubernetes-labs): Kubernetes deployment samples, practices and examples.
-   - ➡️ [**cmd**](https://github.com/nholuongut/cli-commands-reference): A bookmark for my daily used command line 
-- 👀 Checkout my full repositories landscape 🇻➡️ [**here**](https://github.com/nholuongut?tab=repositories)
-   - ➡️ [**microservices-deployment**](https://github.com/nholuongut/microservices-deployment-sample): Sample microservices deployment on k8s with proxy, monitoring and logging features.
-   - ➡️ [**azure-services-learning-resources**](https://github.com/nholuongut/azure-services-learning-resources): 📚 Collection of Azure Services documentation and learning resources.
-   - ➡️ [**aws-hub-repository-docs**](https://github.com/nholuongut/aws-hub-repository-docs): 📚 Collection of AWS Services documentation and learning resources.
+   - ➡️ [**devops-basics**](https://github.com/StarDev95/devops-basics): Practical and document place for DevOps skill.
+   - ➡️ [**devops-toolkit**](https://github.com/StarDev95/devops-toolkit): Container image for an all-in-one DevOps environment with popular tools
+   - ➡️ [**devops-notes**](https://github.com/StarDev95/devops-notes): This is my DevOps stack public repositories on github.
+   - ➡️ [**devsecops-demos**](https://github.com/StarDev95/devsecops-demos): A DevSecOps integrating security into the DevOps Process 
+   - ➡️ [**cicd-presentation**](https://github.com/StarDev95/cicd-presentation): Introductory for continuous integration, deployment, delivery. 
+   - ➡️ [**local-env**](https://github.com/StarDev95/local-env): LocalEnv - Local Containerized Environment supports various languages.
+   - ➡️ [**kubernetes-labs**](https://github.com/StarDev95/kubernetes-labs): Kubernetes deployment samples, practices and examples.
+   - ➡️ [**cmd**](https://github.com/StarDev95/cli-commands-reference): A bookmark for my daily used command line 
+- 👀 Checkout my full repositories landscape 🇻➡️ [**here**](https://github.com/StarDev95?tab=repositories)
+   - ➡️ [**microservices-deployment**](https://github.com/StarDev95/microservices-deployment-sample): Sample microservices deployment on k8s with proxy, monitoring and logging features.
+   - ➡️ [**azure-services-learning-resources**](https://github.com/StarDev95/azure-services-learning-resources): 📚 Collection of Azure Services documentation and learning resources.
+   - ➡️ [**aws-hub-repository-docs**](https://github.com/StarDev95/aws-hub-repository-docs): 📚 Collection of AWS Services documentation and learning resources.
 
 <h1 align="left">Languages and Tools🇻:</h1>
 <center>
@@ -123,16 +98,7 @@ Ask me **about DevOps & DevSecOps with CI/CD Pipelines, Cloud Computing (AWS, Mi
 
 ![](https://i.imgur.com/waxVImv.png)
 # I'm are always open to your feedback🚀
-# **[Contact Me🇻]**
-* [Name: Nho Luong]
-* [Telegram](https://t.me/nholuongut)
-* [WhatsApp](https://wa.me/84983630781)
-* [PayPal.Me](https://www.paypal.com/paypalme/nholuongut)
-* [Linkedin](https://www.linkedin.com/in/nholuong/)
 
-![](https://i.imgur.com/waxVImv.png)
-![](Donate.png)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License🇻
 * Nho Luong (c). All Rights Reserved.🌟
