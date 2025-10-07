@@ -99,6 +99,3 @@ Ask me **about DevOps & DevSecOps with CI/CD Pipelines, Cloud Computing (AWS, Mi
 ![](https://i.imgur.com/waxVImv.png)
 # I'm are always open to your feedback🚀
 
-
-# License🇻
-* Nho Luong (c). All Rights Reserved.🌟
